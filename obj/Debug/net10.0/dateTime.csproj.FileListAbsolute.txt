@@ -1,0 +1,14 @@
+/Users/semihkartal/Desktop/denemler/dateTime/bin/Debug/net10.0/dateTime
+/Users/semihkartal/Desktop/denemler/dateTime/bin/Debug/net10.0/dateTime.deps.json
+/Users/semihkartal/Desktop/denemler/dateTime/bin/Debug/net10.0/dateTime.runtimeconfig.json
+/Users/semihkartal/Desktop/denemler/dateTime/bin/Debug/net10.0/dateTime.dll
+/Users/semihkartal/Desktop/denemler/dateTime/bin/Debug/net10.0/dateTime.pdb
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.AssemblyInfoInputs.cache
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.AssemblyInfo.cs
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.csproj.CoreCompileInputs.cache
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.dll
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/refint/dateTime.dll
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.pdb
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/dateTime.genruntimeconfig.cache
+/Users/semihkartal/Desktop/denemler/dateTime/obj/Debug/net10.0/ref/dateTime.dll
